@@ -6,7 +6,7 @@ At home I primarily develop in Rust 🦀
 &nbsp;  
 I contribute to basically any project that interests me.  
 &nbsp;  
-Feel free to reach out to me at <ryanbrue@gmail.com> or find me on mastodon at [@ryanabx@mastodon.social](https://mastodon.social/@ryanabx) 🐘  
+Feel free to reach out to me on mastodon at [@ryanabx@mastodon.social](https://mastodon.social/@ryanabx) 🐘  
 &nbsp;  
 Other git forges:  
 &nbsp;  
