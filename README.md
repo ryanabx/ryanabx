@@ -11,3 +11,5 @@ Feel free to reach out to me on mastodon at [@ryanabx@mastodon.social](https://m
 Other git forges:  
 &nbsp;  
 <https://gitlab.freedesktop.org/ryanabx> - Freedesktop GitLab  
+
+<a rel="me" href="https://mastodon.social/@ryanabx">Mastodon</a>
