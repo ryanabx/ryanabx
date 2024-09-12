@@ -11,5 +11,9 @@ I contribute to basically any project that interests me. I don't have forked rep
 
 
 Other links:
-- <https://gitlab.freedesktop.org/ryanabx> - Freedesktop GitLab
-- <a rel="me" href="https://mastodon.social/@ryanabx">Mastodon</a>
+
+[Freedesktop GitLab](https://gitlab.freedesktop.org/ryanabx)
+
+<a rel="me" href="https://mastodon.social/@ryanabx">Mastodon</a>
+
+[My website](https://ryanabx.github.io)
