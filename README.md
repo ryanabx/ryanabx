@@ -1,3 +1,5 @@
+# Note: All my major repositories have been migrated to [Codeberg](https://codeberg.org/ryanabx). I would encourage everyone else who is able to do the same.
+
 Hello! I'm Ryan Brue,
 
 I'm a software developer in my day job, and in my free time a hobbyist open source contributor!
