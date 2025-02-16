@@ -1,4 +1,4 @@
-# Note: All my major repositories have been migrated to [Codeberg](https://codeberg.org/ryanabx). I would encourage everyone else who is able to do the same.
+# Note: All my major repositories have been migrated to [Codeberg](https://codeberg.org/ryanabx). I would encourage everyone else who is able to do so, to do the same.
 
 Hello! I'm Ryan Brue,
 
